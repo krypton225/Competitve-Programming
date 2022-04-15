@@ -1,0 +1,5 @@
+# This is all files and folders which will not push into repo.
+
+*.iml
+/.idea
+/out

@@ -15,5 +15,5 @@ This is a just competitive programming repo and each folder has its URL problem 
 - [Codeforces](https://codeforces.com/)
 
 
-## Author
+### 🔗 Author
 - [@krypton225](https://www.github.com/krypton225)

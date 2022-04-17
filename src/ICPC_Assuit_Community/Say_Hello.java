@@ -1,6 +1,6 @@
 /*
 * Hello! This is a solution of the problem which its links is:
-* https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/48945202
+* https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
 * */
 
 package ICPC_Assuit_Community;

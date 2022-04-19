@@ -1,4 +1,4 @@
-# <p align="center">Competitve-Programming</p>
+# <p align="center">Competitive-Programming</p>
 
 <br><br>
 
@@ -8,7 +8,7 @@
 
 <br><br>
 
-This is a just competitive programming repo and each folder has its URL problem and its my solution.
+This is a just competitive programming repo and each folder has its URL problem and Its my solution.
 
 ### 🔗 Sites which I used in solving problems
 

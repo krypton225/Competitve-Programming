@@ -3,7 +3,7 @@
  * https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D
  * */
 
-package ICPC_Assuit_Community;
+package ICPC_Assuit_Community.Sheet_A;
 
 import java.util.Scanner;
 

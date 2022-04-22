@@ -3,11 +3,11 @@
  * https://codeforces.com/contest/677/problem/A
  * */
 
-package ACM_Sheet;
+package ACM_Sheet.Sheet_A;
 
 import java.util.Scanner;
 
-public class Sheet_A {
+public class Vanya_Fence {
 
     private static final Scanner s = new Scanner(System.in);
 
